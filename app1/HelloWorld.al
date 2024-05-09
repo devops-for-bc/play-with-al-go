@@ -7,6 +7,7 @@ pageextension 51000 CustomerListExt1 extends "Customer List"
     trigger OnOpenPage();
     begin
         Message('App published: Hello AL-GO - Change It Release 1.0.4');
+        Message('App published: Hello AL-GO - Change It Release 1.0.5');
     end;
 }
 
